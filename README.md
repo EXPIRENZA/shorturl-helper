@@ -123,6 +123,6 @@ foreach ($result as &$item) {
 
 Reach out to me at one of the following places!
 
-http://expirenza.com
+<https://go.expirenza.com?code=SUPPORT>
 
 info@expirenza.com
