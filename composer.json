@@ -1,0 +1,24 @@
+{
+  "name": "expirenza/shorturl-helper",
+  "description": "Helper for generate short urls through EXPIRENZA API",
+  "type": "library",
+  "version": "1.0.0",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Moiseykin",
+      "email": "info@expirenza.com",
+      "homepage": "https://expirenza.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "Expirenza\\short\\": "src/",
+      "Expirenza\\short\\objects\\": "src/objects/"
+    }
+  }
+}
